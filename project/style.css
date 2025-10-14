@@ -1,0 +1,108 @@
+body{
+    background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/24046.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;;
+}
+h1{
+    border: 2px;
+    border-radius:10px;
+    box-shadow: black 5px 5px 15px;
+    padding: 7px;
+    display: inline-block;
+    transition: 0.3s;
+}
+h2{
+    border: 2px;
+    border-radius:10px;
+    box-shadow: black 5px 5px 15px;
+    padding: 10px;
+    display: inline-block;
+}
+.papeldeparede{
+    padding: 1px;
+    text-align: center;;
+    border: black 2px;
+    border-radius: 10px;
+    box-shadow: black 1px 5px 15px;
+    display: inline-block;
+
+
+}
+img{
+    padding: 25px;
+    border-radius: 50px;
+    cursor:pointer;
+
+}
+.papeldeparede img:hover{
+    transform: scale(1.2);
+}
+h1:hover{
+    transform: scale(1.10);
+}
+.papeldeparede img{
+    transition: 0.3s;
+    
+}
+#reset{
+    border: black 2px;
+    border-radius:10px;
+    box-shadow: black 5px 5px 15px;
+    padding: 7px;
+    display: inline-block;
+    transition: 0.3s;
+}
+#reset:hover{
+  transform: scale(1.2);
+}
+.fontes{
+    padding: 1px;
+    text-align: center;;
+    border: black 2px;
+    border-radius: 10px;
+    box-shadow: black 5px 5px 15px;
+    display: inline-block;
+}
+.fontes img:hover{
+    transform :scale(1.2);
+}
+.fontes img{
+    transition: 0.3s;
+}
+.cores{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 31px;
+    padding-right: 40px;
+    text-align: center;;
+    border: black 2px;
+    border-radius: 10px;
+    box-shadow: black 1px 5px 15px;
+    display: inline-block;
+}
+.cores img:hover{
+    transform: scale(1.2);
+}
+.cores img{
+    transition: 0.3s;
+}
+.tamanhos{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;;
+    border: black 2px;
+    border-radius: 10px;
+    box-shadow: black 5px 5px 15px;
+    display: inline-block;
+}
+.tamanhos img:hover{
+    transform: scale(1.2);
+}
+.tamanhos img{
+    transition: 0.3s;
+}
