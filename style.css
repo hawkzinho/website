@@ -4,7 +4,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     font-family: 'Franklin Gothic Medium';
-    text-align: center;;
+    text-align: center;
+    color: 'white';
 }
 h1{
     border: 2px;
@@ -106,4 +107,5 @@ h1:hover{
 .tamanhos img{
     transition: 0.3s;
 }
+
 
